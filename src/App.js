@@ -1,23 +1,18 @@
-import logo from './logo.svg';
+
 import './App.css';
+import Decrement from './components/Decrement';
+import DisplayCounter from './components/DisplayCounter';
+import Increment from './components/Increment';
+import Reset from './components/Reset';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <DisplayCounter/>
+      <Increment/>
+      <Decrement/>
+      <Reset/>
+
     </div>
   );
 }
