@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/counter-redux-tookkit/static/js/main.ec483e36.js",
-    "index.html": "/counter-redux-tookkit/index.html",
-    "main.ec483e36.js.map": "/counter-redux-tookkit/static/js/main.ec483e36.js.map"
+    "main.js": "/counter-redux-toolkit/static/js/main.ec483e36.js",
+    "index.html": "/counter-redux-toolkit/index.html",
+    "main.ec483e36.js.map": "/counter-redux-toolkit/static/js/main.ec483e36.js.map"
   },
   "entrypoints": [
     "static/js/main.ec483e36.js"
