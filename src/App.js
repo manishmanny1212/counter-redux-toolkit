@@ -7,7 +7,7 @@ import Reset from './components/Reset';
 
 function App() {
   return (
-    <div className="App">
+    <div >
       <DisplayCounter/>
       <Increment/>
       <Decrement/>
