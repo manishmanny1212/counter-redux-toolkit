@@ -1,5 +1,4 @@
 
-import './App.css';
 import Decrement from './components/Decrement';
 import DisplayCounter from './components/DisplayCounter';
 import Increment from './components/Increment';
