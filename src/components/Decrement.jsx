@@ -9,7 +9,7 @@ function Decrement() {
     dispatch( decrement(paylode))
   }
   return (
-    <div><button onClick={()=>{decrementHandler()}}>decrement by one</button></div>
+    <div><button onClick={()=>{decrementHandler()}}>decrement by five</button></div>
   )
 }
 
